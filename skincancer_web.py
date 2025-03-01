@@ -1,8 +1,6 @@
 # Step 1: Importing Essential Libraries
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-
 
 # Step 2: Loading the CSV file
 from google.colab import files
