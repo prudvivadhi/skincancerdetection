@@ -1,2 +1,4 @@
 tensorflow
 streamlit
+scikit-learn
+pillow
